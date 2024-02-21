@@ -1,0 +1,126 @@
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe.config
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.login.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.menu_utama.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.pelanggan.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.penjualan.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.petugas.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.Resources.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.produk.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.GenerateResource.Cache
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.pdb
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.xml
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.exe
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.xml
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.pdb
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.registrasi.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_pelanggan.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_produk.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.laporan.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.transaksi.resources
+C:\alfi mazilatul rohmah xii acp\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.ResolveComReference.cache
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe.config
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.ResolveComReference.cache
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.exe
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.xml
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.pdb
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.pdb
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.xml
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_pelanggan.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_produk.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.laporan.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.login.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.menu_utama.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.pelanggan.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.penjualan.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.petugas.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.Resources.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.produk.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.registrasi.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.transaksi.resources
+E:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.GenerateResource.Cache
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe.config
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.ResolveComReference.cache
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.exe
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.xml
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.pdb
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.pdb
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.xml
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_pelanggan.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_produk.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.laporan.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.login.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.menu_utama.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.pelanggan.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.penjualan.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.petugas.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.Resources.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.produk.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.registrasi.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.transaksi.resources
+F:\aplikasi ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.GenerateResource.Cache
+E:\UKK\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe.config
+E:\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.ResolveComReference.cache
+E:\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.exe
+E:\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.xml
+E:\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.pdb
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe.config
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.ResolveComReference.cache
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.exe
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.xml
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.pdb
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.pdb
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.xml
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_pelanggan.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_produk.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.laporan.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.login.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.menu_utama.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.pelanggan.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.penjualan.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.petugas.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.Resources.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.produk.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.registrasi.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.transaksi.resources
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.GenerateResource.Cache
+C:\Users\LAB RPL 3 - 12\Documents\UKK\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.menupelanggan.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe
+E:\ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.pdb
+E:\ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.xml
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_pelanggan.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_produk.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.laporan.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.login.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.menu_utama.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.menupelanggan.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.pelanggan.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.penjualan.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.petugas.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.Resources.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.produk.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.registrasi.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.Transaksi.resources
+E:\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.GenerateResource.Cache
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe.config
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.ResolveComReference.cache
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.exe
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.xml
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.pdb
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.exe
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.pdb
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\bin\Debug\aplikasi kasir.xml
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_pelanggan.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.cari_produk.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.laporan.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.login.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.menu_utama.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.pelanggan.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.petugas.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.Resources.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.produk.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi_kasir.Transaksi.resources
+C:\Users\LAB RPL 3 - 11\Documents\ukk\aplikasi kasir\aplikasi kasir\obj\Debug\aplikasi kasir.vbproj.GenerateResource.Cache
